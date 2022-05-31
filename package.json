@@ -1,0 +1,23 @@
+{
+  "name": "aprenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "@babel/register": "^7.17.7",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "react": "^18.1.0",
+    "redux": "^4.2.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
